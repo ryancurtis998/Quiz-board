@@ -6,11 +6,26 @@
     <script src="js/scripts.js"></script>
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Gamja+Flower" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Black+And+White+Picture" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy" rel="stylesheet">
     <title> QUIZ BOARD</title>
 
   </head>
   <body>
+    <div id="questions">
+    <div class="sidenav">
 
+      <br><br>
+      <a href="#about">PROGRESS</a>
+
+      <progress id="progressbar" value="0" max="100" ></progress>
+      <br><br>
+      <button type="button" name="button" onClick="reset()" id="reset">Retake quiz</button>
+
+</div>
+
+<div class="container">
     <form class="quiz">
 
       <div class="question1">
@@ -84,12 +99,10 @@
         <label> <input type="radio" name="question10" value="10">false </label>
 
 
-      <p> <input type="button" name="" value="Get Score"> </p>
+      <p> <input type="button" name="" value="Get score"> </p>
 
-        <p id="output"></p>
-        
      </form>
-
+</div>
   </body>
 
 </html>
