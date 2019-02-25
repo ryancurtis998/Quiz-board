@@ -1,11 +1,11 @@
 ##Demo
 
-Here is a live link to the webpage (https://github.com/ryancurtis998/Quiz-board.git)
+  Here is a live link to the webpage (https://github.com/ryancurtis998/Quiz-board.git)
 ##BDD
 
-Project : Quiz Board
+  Project : Quiz Board
 
-Behavior Driven Development
+   Behavior Driven Development
 
     Prompts user with questions
     Gather User Input
@@ -15,7 +15,7 @@ Behavior Driven Development
 
 ##Tech
 
-Quiz Board was made using a number of languages and tools:
+   Quiz Board was made using a number of languages and tools:
 
     HTML- HTML enhanced for web apps!
     ATOM EDITOR - text editor.
@@ -25,7 +25,7 @@ Quiz Board was made using a number of languages and tools:
 
 ##Prerequisites
 
-Basic git knowledge
+ Basic git knowledge
 ##Clone from github
 
     On GitHub, navigate to the main page of the repository.
